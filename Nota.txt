@@ -1,1 +1,14 @@
-# update apabila sudah ada pengetahuan asas python saja.
+
+# bruh
+
+          ||- [ ramal jawapan ] ||- input P/O
+          ||- [ ramal jawapan ] ||- input P/O
+          ||- [ ramal jawapan ] ||- input P/O
+          ||- [ ramal jawapan ] ||- input P/O
+          ||- [ ramal jawapan ] ||- input P/O
+input ||- ||-                                 ||- random  ||- output
+          ||- [ ramal jawapan ] ||- input P/O
+          ||- [ ramal jawapan ] ||- input P/O
+          ||- [ ramal jawapan ] ||- input P/O
+          ||- [ ramal jawapan ] ||- input P/O
+          ||- [ ramal jawapan ] ||- input P/O
