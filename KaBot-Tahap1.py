@@ -6,6 +6,6 @@ def out(inp):
   else:
     return "masalah!"
 while True:
-  inp = input(":")
+  inp = input()
   OUT = out(inp)
   print(OUT)
