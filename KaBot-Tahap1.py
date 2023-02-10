@@ -5,6 +5,6 @@ def out(inp):
     return "bruh"
     
 while True:
-  inp = input(" :")
+  inp = input(":")
   OUT = out(inp)
   print(OUT)
